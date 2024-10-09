@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20" fill="none" viewBox="0 0 500 30">
+  <!-- Circle 1 -->
+  <circle cx="10" cy="30" r="10" fill="#FFD43D" />
+  <!-- Circle 2 -->
+  <circle cx="40" cy="30" r="10" fill="#FF0C81" />
+  <!-- Circle 3 -->
+  <circle cx="70" cy="30" r="10" fill="#11EEFC" />
+  
+  <!-- Text -->
+  <text x="90" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FF0C81">A</text>
+  <text x="105" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FFD43D">I</text>
+  <text x="110" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#11EEFC">Planner</text>
+</svg>
